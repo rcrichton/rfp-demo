@@ -16,7 +16,6 @@ let getAsyncTransacations = () => {
   ]).delay(function (x) { return Rx.Observable.timer(x.time); })
 }
 
-/* Get stock data somehow */
 const source = getAsyncTransacations();
 
 const subscription = source

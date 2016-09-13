@@ -1,4 +1,4 @@
-# Reactive Functional Programming with rx.js
+# Functional Reactive Programming with rx.js
 
 Reactive programming is a way to handle and manipulate lots of ansynchonous events more easily.
 
